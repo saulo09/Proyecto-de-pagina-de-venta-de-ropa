@@ -1,0 +1,19 @@
+#misionyvision h3, h4 {
+    text-align: center;
+}
+
+
+
+#misionyvision .contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+#misionyvision article {
+    margin: 15px;
+}
+
+#misionyvision img{
+    width: 100%;
+    max-width: 280px;
+}
